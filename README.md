@@ -10,6 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AsrafujjamanDeepu&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/AsrafujjamanDeepu?label=Followers&style=for-the-badge&color=7c3aed)](https://github.com/AsrafujjamanDeepu?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/AsrafujjamanDeepu?label=Stars&style=for-the-badge&color=7c3aed)](https://github.com/AsrafujjamanDeepu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asrafujjaman.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://asrafujjaman.vercel.app)
 
 </div>
 
@@ -27,6 +28,7 @@ namespace AsrafujjamanDeepu
         public string   Location   { get; } = "📍 Dhaka, Bangladesh";
         public string   Email      { get; } = "asrafujjamandeepu@gmail.com";
         public string   Phone      { get; } = "+8801521200643";
+        public string   Website    { get; } = "https://asrafujjaman.vercel.app";
 
         public string[] Education  { get; } = {
             "🏛️  IsDB IT Scholarship — Cross Platform ASP.NET with C#",
@@ -72,15 +74,32 @@ namespace AsrafujjamanDeepu
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### ⚙️ Backend & Frameworks
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🔗 Web Technologies
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Ajax](https://img.shields.io/badge/Ajax-7952B3?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🗄️ Databases
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -92,6 +111,10 @@ namespace AsrafujjamanDeepu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SAP Crystal Reports](https://img.shields.io/badge/SAP%20Crystal%20Reports-0FAAFF?style=for-the-badge)
 
 </div>
 
@@ -104,15 +127,15 @@ namespace AsrafujjamanDeepu
 <td width="50%" valign="top">
 
 ### 🏢 FullStack Software Developer Intern
-**Daffodil International Academy**
-> Built real-world applications combining frontend, backend, and database layers. Worked on ASP.NET Core projects and full-stack web solutions.
+**Daffodil International Academy** · *Nov 2025 – Oct 2026*
+> One-year internship architecting and deploying web application solutions across three distinct stacks — MEAN, MERN, and .NET Full-Stack Development.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Trainee — IT Scholarship Program
-**IsDB-BISEW (Us-Software Limited)**
-> Intensive training in Cross-Platform ASP.NET with C#. Developed production-grade projects under mentorship of senior .NET engineers.
+**IsDB-BISEW IT Scholarship Program** · *Nov 2025 – Oct 2026*
+> Served as Class Representative during an intensive 8.5-month (788-hour) training program mastering cross-platform application development with ASP.NET, Angular, and React.
 
 </td>
 </tr>
@@ -123,9 +146,14 @@ namespace AsrafujjamanDeepu
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/AsrafujjamanDeepu/Asrafujjaman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=Asrafujjaman&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Portfolio Website" width="48%" />
+  </a>
   <a href="https://github.com/AsrafujjamanDeepu/Study_Tracker_Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=Study_Tracker_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Study Tracker" width="48%" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/AsrafujjamanDeepu/MSSQL_Advanced_Media_Streaming_Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=MSSQL_Advanced_Media_Streaming_Management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Media Streaming DB" width="48%" />
   </a>
@@ -133,12 +161,15 @@ namespace AsrafujjamanDeepu
 
 
 
-### 🔨 Also Built (Coming to GitHub soon)
+### 🔨 Also Built
 | Project | Stack | Description |
 |---|---|---|
-| 💬 **Realtime Chat App** | Node.js · Express · MongoDB · Socket.io | Full-stack realtime chatting service |
-| 🛒 **E-Commerce Website** | HTML · CSS · jQuery · Node.js · MongoDB | Complete e-commerce platform |
-| 🖥️ **Windows Form Apps** | C# · MS SQL Server · Visual Studio | Desktop apps with SQL database integration |
+| 🎫 **Ticket Portal** | C# · ASP.NET Core Web API · EF Core · SQL Server · Angular · React | Multi-tenant bus-ticket booking platform with RESTful APIs and a responsive Angular UI |
+| 🏥 **Clinic Management System** | ASP.NET Core · Entity Framework Core · SQL Server · Razor View Engine | Patient-appointment management system for clinic operations |
+| 🎓 **Student Management System** | ASP.NET MVC · Entity Framework · SQL Server · Razor View Engine | Student management system with a clean, data-driven Razor UI |
+| 🛒 **Virtual Mart** | JavaScript · jQuery · Node.js · WebSocket · MongoDB · HTML · CSS · Bootstrap | Full-stack e-commerce platform with secure user authentication |
+| 📝 **Assignment Submission System** | C# · MongoDB · ASP.NET Core Web API · Next.js · React · TypeScript | Role-based assignment submission system for academic institutions |
+| 🖥️ **Courier Service** | C# · SQL Server · ADO.NET · SAP Crystal Reports | Windows Forms application to automate courier service management |
 
 ---
 
@@ -176,7 +207,8 @@ namespace AsrafujjamanDeepu
 |---|---|---|
 | **IsDB-BISEW** | Cross Platform ASP.NET with C# | IT Scholarship Graduate |
 | **Stanford University** | Code in Place | Python Programming |
-| **University** | B.Sc in Physics | Science Background |
+| **Govt. Bangla College** (Dhaka University) | M.Sc in Physics | 2022 – 2023 |
+| **Govt. Bangla College** (Dhaka University) | B.Sc in Physics | 2017 – 2022 |
 
 </div>
 
@@ -199,6 +231,7 @@ namespace AsrafujjamanDeepu
 [![Email](https://img.shields.io/badge/Gmail-asrafujjamandeepu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asrafujjamandeepu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asrafujjaman)
 [![Phone](https://img.shields.io/badge/WhatsApp-%2B8801521200643-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801521200643)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asrafujjaman.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://asrafujjaman.vercel.app)
 
 </div>
 
