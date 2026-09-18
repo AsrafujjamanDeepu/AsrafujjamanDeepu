@@ -33,7 +33,7 @@ namespace AsrafujjamanDeepu
         public string[] Education  { get; } = {
             "🏛️  IsDB IT Scholarship — Cross Platform ASP.NET with C#",
             "🎓  Stanford University — Code in Place (Python)",
-            "🔬  B.Sc in Physics"
+            "🔬  B.Sc & M.Sc in Physics"
         };
 
         public string[] Experience { get; } = {
