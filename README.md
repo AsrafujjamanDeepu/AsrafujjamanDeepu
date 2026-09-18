@@ -147,18 +147,18 @@ namespace AsrafujjamanDeepu
 
 <p align="center">
   <a href="https://github.com/AsrafujjamanDeepu/TicketPortal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=TicketPortal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Ticket Portal" width="48%" />
+    <img src="./profile/pin-ticketportal.svg" alt="Ticket Portal" width="48%" />
   </a>
   <a href="https://github.com/AsrafujjamanDeepu/ActiveArch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=ActiveArch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="ActiveArch" width="48%" />
+    <img src="./profile/pin-activearch.svg" alt="ActiveArch" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AsrafujjamanDeepu/AssignmentSubmissionSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=AssignmentSubmissionSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Assignment Submission System" width="48%" />
+    <img src="./profile/pin-assignmentsubmissionsystem.svg" alt="Assignment Submission System" width="48%" />
   </a>
   <a href="https://github.com/AsrafujjamanDeepu/Study_Tracker_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsrafujjamanDeepu&repo=Study_Tracker_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Study Tracker" width="48%" />
+    <img src="./profile/pin-study-tracker.svg" alt="Study Tracker" width="48%" />
   </a>
 </p>
 
@@ -177,12 +177,12 @@ namespace AsrafujjamanDeepu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsrafujjamanDeepu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
+<img width="49%" src="./profile/stats.svg" />
 <img width="49%" src="https://streak-stats.demolab.com?user=AsrafujjamanDeepu&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff9944&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafujjamanDeepu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+<img width="49%" src="./profile/top-langs.svg" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsrafujjamanDeepu&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
 
 </div>
