@@ -162,6 +162,15 @@ namespace AsrafujjamanDeepu
   </a>
 </p>
 
+### 🔨 Also Built
+| Project | Stack | Description |
+|---|---|---|
+| 🏥 **Clinic Management System** | ASP.NET Core · Entity Framework Core · SQL Server · Razor View Engine | Patient-appointment management system for clinic operations |
+| 🎓 **Student Management System** | ASP.NET MVC · Entity Framework · SQL Server · Razor View Engine | Student management system with a clean, data-driven Razor UI |
+| 🛒 **Virtual Mart** | JavaScript · jQuery · Node.js · WebSocket · MongoDB · HTML · CSS · Bootstrap | Full-stack e-commerce platform with secure user authentication |
+| 🖥️ **Courier Service** | C# · SQL Server · ADO.NET · SAP Crystal Reports | Windows Forms application to automate courier service management |
+| 🎬 **Advanced Media Streaming Management System** | SQL Server · T-SQL · Advanced DDL & DML | Optimized SQL Server system with stored procedures and triggers |
+
 ---
 
 ## 📊 GitHub Analytics
