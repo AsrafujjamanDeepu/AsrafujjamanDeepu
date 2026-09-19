@@ -127,14 +127,14 @@ namespace AsrafujjamanDeepu
 <td width="50%" valign="top">
 
 ### 🏢 FullStack Software Developer Intern
-**Daffodil International Academy** · *Nov 2025 – Oct 2026*
+**[Daffodil International Academy](https://daffodil.ac/site/)** · *Nov 2025 – Oct 2026*
 > One-year internship architecting and deploying web application solutions across three distinct stacks — MEAN, MERN, and .NET Full-Stack Development.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Trainee — IT Scholarship Program
-**IsDB-BISEW IT Scholarship Program** · *Nov 2025 – Oct 2026*
+**[IsDB-BISEW IT Scholarship Program](https://www.isdb-bisew.org/)** · *Nov 2025 – Oct 2026*
 > Served as Class Representative during an intensive 8.5-month (788-hour) training program mastering cross-platform application development with ASP.NET, Angular, and React.
 
 </td>
@@ -165,11 +165,11 @@ namespace AsrafujjamanDeepu
 ### 🔨 Also Built
 | Project | Stack | Description |
 |---|---|---|
-| 🏥 **Clinic Management System** | ASP.NET Core · Entity Framework Core · SQL Server · Razor View Engine | Patient-appointment management system for clinic operations |
-| 🎓 **Student Management System** | ASP.NET MVC · Entity Framework · SQL Server · Razor View Engine | Student management system with a clean, data-driven Razor UI |
-| 🛒 **Virtual Mart** | JavaScript · jQuery · Node.js · WebSocket · MongoDB · HTML · CSS · Bootstrap | Full-stack e-commerce platform with secure user authentication |
-| 🖥️ **Courier Service** | C# · SQL Server · ADO.NET · SAP Crystal Reports | Windows Forms application to automate courier service management |
-| 🎬 **Advanced Media Streaming Management System** | SQL Server · T-SQL · Advanced DDL & DML | Optimized SQL Server system with stored procedures and triggers |
+| 🏥 **[Clinic Management System](https://github.com/AsrafujjamanDeepu/ClinicManagementSystem)** | ASP.NET Core · Entity Framework Core · SQL Server · Razor View Engine | Patient-appointment management system for clinic operations |
+| 🎓 **[Student Management System](https://github.com/AsrafujjamanDeepu/StudentManagementSystem)** | ASP.NET MVC · Entity Framework · SQL Server · Razor View Engine | Student management system with a clean, data-driven Razor UI |
+| 🛒 **[Virtual Mart](https://github.com/AsrafujjamanDeepu/VirtualMart)** | JavaScript · jQuery · Node.js · WebSocket · MongoDB · HTML · CSS · Bootstrap | Full-stack e-commerce platform with secure user authentication |
+| 🖥️ **[Courier Service](https://github.com/AsrafujjamanDeepu/CourierService)** | C# · SQL Server · ADO.NET · SAP Crystal Reports | Windows Forms application to automate courier service management |
+| 🎬 **[Advanced Media Streaming Management System](https://github.com/AsrafujjamanDeepu/Advanced_Media_Streaming_Management_MSSQL)** | SQL Server · T-SQL · Advanced DDL & DML | Optimized SQL Server system with stored procedures and triggers |
 
 ---
 
@@ -205,10 +205,10 @@ namespace AsrafujjamanDeepu
 
 | 🏛️ Institution | 📚 Programme | 🏅 Highlight |
 |---|---|---|
-| **IsDB-BISEW** | Cross Platform ASP.NET with C# | IT Scholarship Graduate |
-| **Stanford University** | Code in Place | Python Programming |
-| **Govt. Bangla College** (Dhaka University) | M.Sc in Physics | 2022 – 2023 |
-| **Govt. Bangla College** (Dhaka University) | B.Sc in Physics | 2017 – 2022 |
+| **[IsDB-BISEW](https://isdb-bisew.org/)** | Cross Platform ASP.NET with C# | IT Scholarship Graduate |
+| **[Stanford University](https://codeinplace.stanford.edu/)** | Code in Place | Python Programming |
+| **[Govt. Bangla College](https://www.sarkaribanglacollege.gov.bd/)** (Dhaka University) | M.Sc in Physics | 2022 – 2023 |
+| **[Govt. Bangla College](https://www.sarkaribanglacollege.gov.bd/)** (Dhaka University) | B.Sc in Physics | 2017 – 2022 |
 
 </div>
 
